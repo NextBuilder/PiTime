@@ -1,8 +1,22 @@
 # ⭐ **PiTime — Mathematical LED Clock**
 
-A unique clock where you don’t just read time… you **solve it**.
+<p align="center">
+  <img src="Circuit Diagram/preview.png" width="700"/>
+  <br>
+  <em>PiTime — Mathematical LED Clock</em>
+</p>
 
-🎥 **Demo Video:** https://youtu.be/igrR7m4oXSg
+# 🎥 Demo Video
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=igrR7m4oXSg">
+    <img src="https://img.youtube.com/vi/igrR7m4oXSg/maxresdefault.jpg" width="700"/>
+  </a>
+  <br>
+  <em>Watch PiTime in Action</em>
+</p>
+
+A unique clock where you don’t just read time… you **solve it**.
 
 ## 📡 **Social & Community Links**
 
